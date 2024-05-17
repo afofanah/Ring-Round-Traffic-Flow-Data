@@ -7,5 +7,12 @@ AvgDuration: The average travel time for vehicles moving from the source frame t
 IsPair: A binary indicator showing whether the target frame and source frame constitute a pair. Each target frame has one source frame designated as its pair, 
 though it may have connections to multiple other source frames not considered as pairs.
 
-For more Details, please read the paper title: "STAF: Convolutional Spatio-Temporal Transformer Architecture based on Augmented Feature Learning for Traffic Flow Forecasting"
-Authors: Abdul Joseph Fofanah, Larry Wen, David Chen, and Shaoyang Zhang
+For more Details, please read  and cite the paper:
+@article{Fofanah2024Staf,
+title={Staf: Convolutional Spatio-Temporal Transformer Architecture Based on Augmented Feature Learning for Traffic Flow Forecasting},
+author={Fofanah, Abdul J. and Chen, David and Wen, Lian and Zhang, Shaoyang},
+journal={Social Science Research Network},
+url={https://ssrn.com/abstract=4826658},
+doi={10.2139/ssrn.4826658},
+year={2024}
+}
